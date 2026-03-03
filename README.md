@@ -11,7 +11,7 @@ The choreography consists of:
   * Target position (e.g., B2, 4C)
   * Absolute time when the robot must leave that position (e.g., T350 → 35.0 seconds)
 
-For each step, the coordinate determines the movement order (letter first → column then row, number first → row then column.
+For each step, the coordinate determines the movement order (letter first → column then row, number first → row then column).
 
 The dance begins on button press and ends after completing all steps; another button press at any time makes the robot return to its starting position and orientation. 
 
