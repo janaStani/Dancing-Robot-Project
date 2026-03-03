@@ -7,7 +7,6 @@ Example choreography: A1N, E1 T150, B2 T350, 3A T450, 4C T567, D2 T700
 
 <img width="266" height="265" alt="image" src="https://github.com/user-attachments/assets/2608019b-a829-41db-933e-cb0a04dd7c17" />
 
-
 The choreography consists of:
 * Starting position and orientation (N, E, S, W) (e.g., A1N) 
 * A sequence of dance steps, each containing:
